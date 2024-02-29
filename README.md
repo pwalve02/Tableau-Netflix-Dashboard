@@ -4,7 +4,6 @@
 
 - This Netflix dashboard project provides a visual analysis of the streaming platform's content library, offering insights into content distribution by country, content ratings, genre popularity, and growth over time
 - Key takeaways include a larger proportion of movies to TV shows, a concentration of mature-rated content, and a significant increase in content added, particularly from 2014 to 2020.
-- Key takeaways include a larger proportion of movies to TV shows, a concentration of mature-rated content, and a significant increase in content added, particularly from 2014 to 2020.
 - Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters about Netflix Content Analysis.
 
 ### Approach - Project Planning 
